@@ -1,0 +1,8 @@
+﻿product_1c_id,product_1c_name,scraped_product_title,marketplace,similarity_score,price_1c,price_scraped,price_difference,price_difference_percent,confidence,match_details
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,HJC RPHA71 CARBON размер XL,,0.99,63000.0,46500.0,-16500.0,-26.19,high,"{'name': 1.0, 'brand': 1.0, 'size': 1.0, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,Мотошлем HJC RPHA71 Carbon,,0.95,63000.0,47000.0,-16000.0,-25.4,high,"{'name': 1.0, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,HJC RPHA 71 Carbon мотошлем,,0.84,63000.0,48000.0,-15000.0,-23.81,medium,"{'name': 0.83, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,Шлем HJC RPHA 71 Carbon Black,,0.84,63000.0,45000.0,-18000.0,-28.57,medium,"{'name': 0.82, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,HJC RPHA 71 Carbon шлем мото,,0.82,63000.0,43000.0,-20000.0,-31.75,medium,"{'name': 0.79, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,Шлем мотоциклетный HJC RPHA71,,0.79,63000.0,42000.0,-21000.0,-33.33,medium,"{'name': 0.75, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"
+hjc-rpha71-carbon-xl,Мотошлем HJC RPHA71 CARBON CARBON XL,Шлем HJC RPHA71 для мотоцикла,,0.79,63000.0,46000.0,-17000.0,-26.98,medium,"{'name': 0.75, 'brand': 1.0, 'size': 0.7, 'category': 0.8}"

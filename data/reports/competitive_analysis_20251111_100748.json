@@ -1,0 +1,141 @@
+{
+  "generated_at": "2025-11-11T10:07:48.420784",
+  "summary": {
+    "total_products_1c": 1,
+    "total_scraped_products": 7,
+    "total_matches": 1
+  },
+  "products_1c": [
+    {
+      "id": "_Цвет:Красный;Ра",
+      "name": "Цвет:Красный;Размер:XL#",
+      "price": 890.0,
+      "brand": "",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [
+    {
+      "title": "Pebeo/XL краска масляная художественная, тонкотертая 37 мл 937006 /XL краска масляная художественная, тонкотертая 37 мл 937006",
+      "price": 434.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/358416059/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Pebeo/XL краска масляная художественная, тонкотертая 37 мл 937006",
+      "rating": 51.0,
+      "reviews_count": 1,
+      "image_url": "https://basket-21.wbbasket.ru/vol3584/part358416/358416059/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Pebeo/XL краска масляная 200 мл, Камий темно-красный 200006 /XL краска масляная 200 мл, Камий темно-красный 200006",
+      "price": 980.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/241019029/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Pebeo/XL краска масляная 200 мл, Камий темно-красный 200006",
+      "rating": 59.0,
+      "reviews_count": 9,
+      "image_url": "https://basket-16.wbbasket.ru/vol2410/part241019/241019029/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Pebeo/XL краска масляная художественная тонкотертая 37 мл 937042 /XL краска масляная художественная тонкотертая 37 мл 937042",
+      "price": 434.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/374041241/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Pebeo/XL краска масляная художественная тонкотертая 37 мл 937042",
+      "rating": 51.0,
+      "reviews_count": 1,
+      "image_url": "https://basket-22.wbbasket.ru/vol3740/part374041/374041241/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Supreme People/Футболка с принтом лошадь с венком из цветов horse /Футболка с принтом лошадь с венком из цветов horse",
+      "price": 1583.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/548858775/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Supreme People/Футболка с принтом лошадь с венком из цветов horse",
+      "rating": 51.0,
+      "reviews_count": 1,
+      "image_url": "https://basket-28.wbbasket.ru/vol5488/part548858/548858775/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Stark Cotton/Футболка базовая хлопок однотонная /Футболка базовая хлопок однотонная",
+      "price": 312.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/10302971/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Stark Cotton/Футболка базовая хлопок однотонная",
+      "rating": 4.0,
+      "reviews_count": 12,
+      "image_url": "https://basket-01.wbbasket.ru/vol103/part10302/10302971/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "S.AMA/Трусы женские набор кружевные стринги бразильяно хлопок 4шт /Трусы женские набор кружевные стринги бразильяно хлопок 4шт",
+      "price": 625.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/273160624/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "S.AMA/Трусы женские набор кружевные стринги бразильяно хлопок 4шт",
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_url": "https://basket-17.wbbasket.ru/vol2731/part273160/273160624/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Envy Lab/Футболка /Футболка",
+      "price": 679.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/163235606/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "Envy Lab/Футболка",
+      "rating": 4.0,
+      "reviews_count": 3,
+      "image_url": "https://basket-11.wbbasket.ru/vol1632/part163235/163235606/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    }
+  ],
+  "matches": [
+    {
+      "product_1c_id": "_Цвет:Красный;Ра",
+      "product_1c_name": "Цвет:Красный;Размер:XL#",
+      "scraped_product_title": "Pebeo/XL краска масляная 200 мл, Камий темно-красный 200006 /XL краска масляная 200 мл, Камий темно-красный 200006",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.87,
+      "price_1c": 890.0,
+      "price_scraped": 980.0,
+      "price_difference": 90.0,
+      "price_difference_percent": 10.11,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.5,
+        "size": 0.7
+      },
+      "url": "https://www.wildberries.ru/catalog/241019029/detail.aspx"
+    }
+  ]
+}

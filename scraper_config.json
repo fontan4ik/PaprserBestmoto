@@ -1,0 +1,49 @@
+{
+  "sites": {
+    "wildberries": {
+      "name": "Wildberries",
+      "search_url": "https://www.wildberries.ru/catalog/0/search.aspx?search={query}",
+      "selectors": {
+        "product_cards": "article[id^='c']",
+        "title": "heading generic",
+        "price": "generic",
+        "link": "a",
+        "brand": "heading generic:first-child"
+      },
+      "price_regex": "(\\d+\\s?\\d*)\\s?₽",
+      "active": true,
+      "delay": 2
+    },
+    "ozon": {
+      "name": "OZON",
+      "search_url": "https://www.ozon.ru/search/?text={query}",
+      "selectors": {
+        "product_cards": "div[data-widget='searchResultsV2']",
+        "title": "span[class*='tsBody']",
+        "price": "[data-widget='webPrice'] span",
+        "link": "a[href*='/product/']"
+      },
+      "price_regex": "(\\d+\\s?\\d*)\\s?₽",
+      "active": true,
+      "delay": 3
+    },
+    "avito": {
+      "name": "Avito",
+      "search_url": "https://www.avito.ru/all?q={query}",
+      "selectors": {
+        "product_cards": "[data-marker='item']",
+        "title": "[itemprop='name']",
+        "price": "[class*='iva-item-price'] span",
+        "link": "a[itemprop='url']"
+      },
+      "price_regex": "(\\d+\\s?\\d*)\\s?₽",
+      "active": true,
+      "delay": 2
+    }
+  },
+  "general": {
+    "timeout": 10,
+    "max_retries": 3,
+    "retry_delay": 5
+  }
+}

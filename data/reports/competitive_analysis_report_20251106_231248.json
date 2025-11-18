@@ -1,0 +1,29 @@
+{
+  "generated_at": "2025-11-06T23:12:48.033710",
+  "summary": {
+    "total_products_1c": 1,
+    "total_scraped_products": 0,
+    "total_matches": 0,
+    "marketplaces": []
+  },
+  "products_1c": [
+    {
+      "id": "hjc-rpha71-carbon-xl",
+      "name": "Мотошлем HJC RPHA71 CARBON CARBON XL",
+      "article": "УТ-00123520",
+      "price": 63000.0,
+      "old_price": 0.0,
+      "brand": "HJC",
+      "size": "XL",
+      "category": "Мотошлемы/HJC",
+      "stock": 5,
+      "group_id": "hjc-group",
+      "characteristics": {
+        "Размер": "XL",
+        "Бренд": "HJC"
+      }
+    }
+  ],
+  "scraped_products": [],
+  "matches": []
+}

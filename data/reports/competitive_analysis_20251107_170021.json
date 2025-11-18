@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-11-07T17:00:21.380493",
+  "summary": {
+    "total_products_1c": 2,
+    "total_scraped_products": 0,
+    "total_matches": 0
+  },
+  "products_1c": [
+    {
+      "name": "Антидождь для визора мотошлема IPONE VISOR RAINOFF 100 мл",
+      "price": 800.0,
+      "brand": "Антидождь",
+      "category": "Шлемы",
+      "article": "",
+      "stock": 0,
+      "source": "1C"
+    },
+    {
+      "name": "Наушники для шлема на 3М основе",
+      "price": 750.0,
+      "brand": "Наушники",
+      "category": "Шлемы",
+      "article": "",
+      "stock": 0,
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [],
+  "matches": []
+}

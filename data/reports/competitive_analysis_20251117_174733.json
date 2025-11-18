@@ -1,0 +1,552 @@
+{
+  "generated_at": "2025-11-17T17:47:33.619287",
+  "summary": {
+    "total_products_1c": 54,
+    "total_scraped_products": 0,
+    "total_matches": 0
+  },
+  "products_1c": [
+    {
+      "id": "509_S1",
+      "name": "Аккумуляторный блок для очков 509 S1",
+      "price": 16100.0,
+      "brand": "",
+      "stock": 1,
+      "description": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Backshift_BOA",
+      "name": "Ботинки FXR Backshift BOA с утеплителем",
+      "price": 42.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "56 650,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Elevation_Dual_BOA",
+      "name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "price": 424546.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "64 100,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_BOA",
+      "name": "Ботинки FXR Helium BOA с утеплителем",
+      "price": 414243454641.0,
+      "brand": "FXR",
+      "stock": 3,
+      "description": "53 750,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_Dual_BOA",
+      "name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "price": 4345.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "60 875,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_X_Cross_Pro_BOA",
+      "name": "Ботинки FXR X-Cross Pro BOA с утеплителем",
+      "price": 3.8394041424344454e+17,
+      "brand": "FXR",
+      "stock": 3,
+      "description": "39 600,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "RSX_BARS",
+      "name": "Ботинки RSX BARS",
+      "price": 434445.0,
+      "brand": "RSX",
+      "stock": 1,
+      "description": "31 700,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "RSX_MAMAY",
+      "name": "Ботинки RSX MAMAY",
+      "price": 22200.0,
+      "brand": "RSX",
+      "stock": 3,
+      "description": "Ботинки сконструированы с использованием передового высокотехнологичного мембранного материала, обеспечивающего водонепроницаемость и оптимальный уровень воздухообмена, синтетической кожи и высококачественной натуральной резины. Система шнуровки MOZ® с одним диском; Петля D-ring на заднике ботинка; Подошва из натуральной резины. 400 г утеплителя обеспечивают комфорт при температурах до -40 °C. Мягкая, удобная защита ахиллова сухожилия  и лодыжки; Крепкий корпус ботинка защищает ногу изнутри и снаружи",
+      "variation": "Размер:43;Цвет:Черно-серый#Размер:44;Цвет:Черно-серый#Размер:45;Цвет:Черно-серый#",
+      "source": "1C"
+    },
+    {
+      "id": "ATV_FLY_RACING_MARKER",
+      "name": "Ботинки зимние ATV/снегоход FLY RACING MARKER",
+      "price": 9.0,
+      "brand": "FLY",
+      "stock": 1,
+      "description": "15 400,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "509_Allied_Mono_Suit_Shell",
+      "name": "Комбинезон 509 Allied Mono Suit Shell",
+      "price": 84600.0,
+      "brand": "",
+      "stock": 1,
+      "description": "Обновленный костюм Allied Mono Suit Shell 509 обеспечивает превосходную защиту от непогоды благодаря полностью проклеенной водонепроницаемой / дышащей ткани и прочному полиэстеру Cordura® 300D с тройной строчкой. Обновленная ластовица в области паха улучшает посадку там, где это необходимо, а новая ширинка на молнии упрощает остановку на пит-стопе.",
+      "variation": "Цвет:Acid Green;Размер:L#Цвет:Black Camo;Размер:M#Цвет:Black Camo;Размер:S#Цвет:Black Ops;Размер:M#Цвет:Racing Red;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_2_0_Acid",
+      "name": "Комбинезон DragonFly Extreme 2.0 Acid",
+      "price": 37000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "Комбинезон сшит из прочной нейлоновой ткани плотного плетения с мембраной и защитным покрытием, что отличает его устойчивость при катании в лесистой местности и 100% защиту от ледяного ветра на открытых горных рельефах. Свободный райдерский крой обеспечивает удобную посадку при активной подвижности, как в защите, так и без неё. Высокие показатели паропроницаемости, отсутствие утеплителя и быстросохнущий подклад из полиэфирной сетки делают комбинезон Dragonfly надежным элементом экипировки для активного катания на горных склонах.",
+      "variation": "Цвет:Оранжевый;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Junior_Gravity",
+      "name": "Комбинезон утепленный DragonFly Junior Gravity",
+      "price": 116122.0,
+      "brand": "",
+      "stock": 2,
+      "description": "19 900,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Gravity_for_Teen",
+      "name": "Куртка утепленная DragonFly Gravity for Teen",
+      "price": 152158152158.0,
+      "brand": "",
+      "stock": 1,
+      "description": "14 900,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "509_Sinister_X7_S1_Black_Saphire",
+      "name": "Очки 509 Sinister X7 S1 Black Saphire с подогревом",
+      "price": 12.0,
+      "brand": "",
+      "stock": 509,
+      "description": "64 950,00",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "64_950_00",
+      "name": "64 950,00",
+      "price": 2.0,
+      "brand": "",
+      "stock": 19,
+      "description": "6#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_600_00",
+      "name": "4 600,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_600_00",
+      "name": "4 600,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черно-серый;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_600_00",
+      "name": "4 600,00",
+      "price": 11.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:3XL#Цвет:Черный;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "13_900_00",
+      "name": "13 900,00",
+      "price": 9884.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Black;Размер:XL#Цвет:Black;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "13_500_00",
+      "name": "13 500,00",
+      "price": 71095.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Размер:L;Цвет:Black#Размер:M;Цвет:Black#Размер:XL;Цвет:Black#Размер:XXL;Цвет:Black#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "13_900_00",
+      "name": "13 900,00",
+      "price": 631011.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_200_00",
+      "name": "15 200,00",
+      "price": 99810411.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XXL#Цвет:Black/Gold;Размер:L#Цвет:Black/Gold;Размер:XL#Цвет:Black/Orange;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "11_600_00",
+      "name": "11 600,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_900_00",
+      "name": "15 900,00",
+      "price": 8685.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Black;Размер:XL#Цвет:Black;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_100_00",
+      "name": "15 100,00",
+      "price": 8722.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "3_900_00",
+      "name": "3 900,00",
+      "price": 8311.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:L#Цвет:Черный;Размер:M#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "6_500_00",
+      "name": "6 500,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черно-красный;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "5_990_00",
+      "name": "5 990,00",
+      "price": 11.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:3XL#Цвет:Черный;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_050_00",
+      "name": "4 050,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Черный;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "8_100_00",
+      "name": "8 100,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black/Fuchsia;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "27_500_00",
+      "name": "27 500,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black-White;Размер:L#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "28_500_00",
+      "name": "28 500,00",
+      "price": 11.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Blue;Размер:L#Цвет:Blue;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_200_00",
+      "name": "4 200,00",
+      "price": 1072.0,
+      "brand": "",
+      "stock": 30,
+      "description": "Цвет:Черный;Размер:L#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "2_600_00",
+      "name": "2 600,00",
+      "price": 2.0,
+      "brand": "",
+      "stock": 35,
+      "description": "Цвет:Черный;Размер:One Size#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "4_990_00",
+      "name": "4 990,00",
+      "price": 2.0,
+      "brand": "",
+      "stock": 509,
+      "description": "Цвет:Черный;Размер:L/XL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "48_300_00",
+      "name": "48 300,00",
+      "price": 11111111.0,
+      "brand": "",
+      "stock": 509,
+      "description": "Цвет:Acid Green;Размер:L#Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:XL#Цвет:Covert Camo;Размер:XL#Цвет:Dark Ops W/Red;Размер:L#Цвет:Dark Ops W/Red;Размер:M#Цвет:Dark Ops W/Red;Размер:XL#Цвет:Red Aura;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "40_300_00",
+      "name": "40 300,00",
+      "price": 11114.0,
+      "brand": "",
+      "stock": 509,
+      "description": "Цвет:Chromium Hi-Vis;Размер:M#Цвет:Chromium Hi-Vis;Размер:XXL#Цвет:Chromium Stealth;Размер:S#Цвет:Chromium Stealth;Размер:XL#Цвет:Rock Star;Размер:XL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "80_400_00",
+      "name": "80 400,00",
+      "price": 2111.0,
+      "brand": "",
+      "stock": 509,
+      "description": "Цвет:Black Camo;Размер:S#Цвет:Black Ops;Размер:S#Цвет:Covert Camo;Размер:S#Цвет:Matte Ops;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "29_600_00",
+      "name": "29 600,00",
+      "price": 2111.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Covert Camo;Размер:XS#Цвет:Racing Red;Размер:XL##Цвет:Stormchaser;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "65_350_00",
+      "name": "65 350,00",
+      "price": 12.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black;Размер:M#Цвет:Black;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "71_100_00",
+      "name": "71 100,00",
+      "price": 4.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "74_170_00",
+      "name": "74 170,00",
+      "price": 2.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Alloy;Размер:XS#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "65_800_00",
+      "name": "65 800,00",
+      "price": 311113532212.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black/Red;Размер:L#Цвет:Black/Red;Размер:M#Цвет:Black/Red;Размер:XL#Цвет:Black/Red;Размер:XXL#Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:S#Цвет:Titanium;Размер:L#Цвет:Titanium;Размер:XL#Цвет:Titanium;Размер:XXL#Цвет:Black Ops;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "77_800_00",
+      "name": "77 800,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 22,
+      "description": "Цвет:Black/Titanium;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "35_100_00",
+      "name": "35 100,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Black Ops;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "22_150_00",
+      "name": "22 150,00",
+      "price": 42112.0,
+      "brand": "",
+      "stock": 362,
+      "description": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:S#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XS#Цвет:Black Ops;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_490_00",
+      "name": "15 490,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 310,
+      "description": "Цвет:Черный;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "26_000_00",
+      "name": "26 000,00",
+      "price": 2.0,
+      "brand": "",
+      "stock": 331,
+      "description": "Цвет:Черно-серый;Размер:XL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "23_500_00",
+      "name": "23 500,00",
+      "price": 1111141.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Бело-зеленый;Размер:L#Цвет:Бело-зеленый;Размер:XL#Цвет:Бело-зеленый;Размер:XXL#Цвет:Красно-голубой;Размер:XXL#Цвет:Черно-красный;Размер:XXL#Цвет:Черный матовый;Размер:L#Цвет:Черный матовый;Размер:M#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "17_500_00",
+      "name": "17 500,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Синий;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "24_000_00",
+      "name": "24 000,00",
+      "price": 111211.0,
+      "brand": "",
+      "stock": 2020,
+      "description": "Цвет:Camo-Grey;Размер:M#Цвет:Camo-Grey;Размер:XL#Цвет:Dark Grey;Размер:L#Цвет:Dark Grey;Размер:M#Цвет:Ink-Red;Размер:M#Цвет:Ink-Red;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "24_000_00",
+      "name": "24 000,00",
+      "price": 32.0,
+      "brand": "",
+      "stock": 0,
+      "description": "Цвет:Сине-красный;Размер:XL#Цвет:Черно-белый камуфляж;Размер:XXL#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_000_00",
+      "name": "15 000,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 2019,
+      "description": "Цвет:Сине-зеленый;Размер:S#",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "15_000_00",
+      "name": "15 000,00",
+      "price": 1.0,
+      "brand": "",
+      "stock": 2,
+      "description": "Цвет:Красный;Размер:XL#",
+      "variation": "",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [],
+  "matches": []
+}

@@ -1,0 +1,31 @@
+{
+  "threshold": 0.85,
+  "weights": {
+    "name": 0.7,
+    "brand": 0.2,
+    "size": 0.1
+  },
+  "algorithms": [
+    "levenshtein",
+    "token_similarity",
+    "fuzzy_ratio"
+  ],
+  "preprocessing": {
+    "normalize_case": true,
+    "remove_special_chars": true,
+    "normalize_spaces": true,
+    "common_replacements": {
+      "мотошлем": "шлем",
+      "helmet": "шлем",
+      "размер": "",
+      "size": "",
+      "цвет": "",
+      "color": ""
+    }
+  },
+  "confidence_levels": {
+    "high": 0.9,
+    "medium": 0.7,
+    "low": 0.5
+  }
+}

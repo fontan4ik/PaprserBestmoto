@@ -1,0 +1,569 @@
+{
+  "generated_at": "2025-11-13T18:44:36.329659",
+  "summary": {
+    "total_products_1c": 5,
+    "total_scraped_products": 10,
+    "total_matches": 18
+  },
+  "products_1c": [
+    {
+      "id": "_Батарея_S1_для_",
+      "name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "price": 16100.0,
+      "brand": "",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Bac",
+      "name": "Ботинки FXR Backshift BOA с утеплителем",
+      "price": 56650.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Ele",
+      "name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "price": 64100.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium BOA с утеплителем",
+      "price": 53750.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "price": 60875.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [
+    {
+      "title": "509/Очки горнолыжные (снегоходные) Aviator 2.0 S1 с подогревом /Очки горнолыжные (снегоходные) Aviator 2.0 S1 с подогревом",
+      "price": 59415.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/302382218/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "509/Очки горнолыжные (снегоходные) Aviator 2.0 S1 с подогревом",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-04mg.geobasket.ru/vol3023/part302382/302382218/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "509/Очки горнолыжные снегоходные Aviator 2.0 S1 с подогревом /Очки горнолыжные снегоходные Aviator 2.0 S1 с подогревом",
+      "price": 59415.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/302378802/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "509/Очки горнолыжные снегоходные Aviator 2.0 S1 с подогревом",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-04mg.geobasket.ru/vol3023/part302378/302378802/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "509/Аккумулятор для очков с подогревом IGNITE /Аккумулятор для очков с подогревом IGNITE",
+      "price": 15369.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/140032045/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "509/Аккумулятор для очков с подогревом IGNITE",
+      "rating": 51.0,
+      "reviews_count": 1,
+      "image_url": "https://sam-basket-cdn-07mg.geobasket.ru/vol1400/part140032/140032045/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Снегоходные ботинки с утеплителем Backshift BOA /Снегоходные ботинки с утеплителем Backshift BOA",
+      "price": 51227.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/143274680/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Снегоходные ботинки с утеплителем Backshift BOA",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-02mg.geobasket.ru/vol1432/part143274/143274680/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Ботинки снегоходные Helium BOA с утеплителем /Ботинки снегоходные Helium BOA с утеплителем",
+      "price": 62171.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/307022466/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Ботинки снегоходные Helium BOA с утеплителем",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-04mg.geobasket.ru/vol3070/part307022/307022466/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Снегоходные ботинки Helium BOA с утеплителем зимние /Снегоходные ботинки Helium BOA с утеплителем зимние",
+      "price": 57096.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/140124284/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Снегоходные ботинки Helium BOA с утеплителем зимние",
+      "rating": 4.0,
+      "reviews_count": 7,
+      "image_url": "https://sam-basket-cdn-06mg.geobasket.ru/vol1401/part140124/140124284/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "price": 86486.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-01mg.geobasket.ru/vol3708/part370889/370889471/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "price": 66045.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-02mg.geobasket.ru/vol3708/part370889/370889472/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "price": 86486.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-01mg.geobasket.ru/vol3708/part370889/370889471/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "price": 66045.0,
+      "old_price": null,
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "source": "Wildberries",
+      "availability": "in_stock",
+      "brand": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://sam-basket-cdn-02mg.geobasket.ru/vol3708/part370889/370889472/images/c516x688/1.webp",
+      "location": "",
+      "seller": ""
+    }
+  ],
+  "matches": [
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "FXR/Снегоходные ботинки с утеплителем Backshift BOA /Снегоходные ботинки с утеплителем Backshift BOA",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 56650.0,
+      "price_scraped": 51227.0,
+      "price_difference": -5423.0,
+      "price_difference_percent": -9.57,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/143274680/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки снегоходные Helium BOA с утеплителем /Ботинки снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 62171.0,
+      "price_difference": 8421.0,
+      "price_difference_percent": 15.67,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/307022466/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Снегоходные ботинки Helium BOA с утеплителем зимние /Снегоходные ботинки Helium BOA с утеплителем зимние",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 57096.0,
+      "price_difference": 3346.0,
+      "price_difference_percent": 6.23,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/140124284/detail.aspx",
+      "reviews_count": 7,
+      "rating": 4.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 86486.0,
+      "price_difference": 32736.0,
+      "price_difference_percent": 60.9,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 66045.0,
+      "price_difference": 12295.0,
+      "price_difference_percent": 22.87,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 86486.0,
+      "price_difference": 32736.0,
+      "price_difference_percent": 60.9,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 66045.0,
+      "price_difference": 12295.0,
+      "price_difference_percent": 22.87,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 86486.0,
+      "price_difference": 25611.0,
+      "price_difference_percent": 42.07,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 86486.0,
+      "price_difference": 25611.0,
+      "price_difference_percent": 42.07,
+      "confidence": "medium",
+      "match_details": {
+        "name": 1.0,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки снегоходные Helium BOA с утеплителем /Ботинки снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 62171.0,
+      "price_difference": 1296.0,
+      "price_difference_percent": 2.13,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.94,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/307022466/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Снегоходные ботинки Helium BOA с утеплителем зимние /Снегоходные ботинки Helium BOA с утеплителем зимние",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 57096.0,
+      "price_difference": -3779.0,
+      "price_difference_percent": -6.21,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.94,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/140124284/detail.aspx",
+      "reviews_count": 7,
+      "rating": 4.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 66045.0,
+      "price_difference": 5170.0,
+      "price_difference_percent": 8.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.94,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium BOA с утеплителем /Ботинки зимние снегоходные Helium BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 66045.0,
+      "price_difference": 5170.0,
+      "price_difference_percent": 8.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.94,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889472/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Батарея_S1_для_",
+      "product_1c_name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "scraped_product_title": "509/Очки горнолыжные (снегоходные) Aviator 2.0 S1 с подогревом /Очки горнолыжные (снегоходные) Aviator 2.0 S1 с подогревом",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.72,
+      "price_1c": 16100.0,
+      "price_scraped": 59415.0,
+      "price_difference": 43315.0,
+      "price_difference_percent": 269.04,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.75,
+        "brand": 0.5,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/302382218/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Батарея_S1_для_",
+      "product_1c_name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "scraped_product_title": "509/Очки горнолыжные снегоходные Aviator 2.0 S1 с подогревом /Очки горнолыжные снегоходные Aviator 2.0 S1 с подогревом",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.72,
+      "price_1c": 16100.0,
+      "price_scraped": 59415.0,
+      "price_difference": 43315.0,
+      "price_difference_percent": 269.04,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.75,
+        "brand": 0.5,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/302378802/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "FXR/Снегоходные ботинки с утеплителем Backshift BOA /Снегоходные ботинки с утеплителем Backshift BOA",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.72,
+      "price_1c": 53750.0,
+      "price_scraped": 51227.0,
+      "price_difference": -2523.0,
+      "price_difference_percent": -4.69,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.89,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/143274680/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 86486.0,
+      "price_difference": 22386.0,
+      "price_difference_percent": 34.92,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.87,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "FXR/Ботинки зимние снегоходные Helium Dual BOA с утеплителем /Ботинки зимние снегоходные Helium Dual BOA с утеплителем",
+      "marketplace": "Wildberries",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 86486.0,
+      "price_difference": 22386.0,
+      "price_difference_percent": 34.92,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.87,
+        "brand": 0.0,
+        "size": 1.0
+      },
+      "url": "https://www.wildberries.ru/catalog/370889471/detail.aspx",
+      "reviews_count": 0,
+      "rating": 0.0
+    }
+  ]
+}

@@ -1,0 +1,3457 @@
+{
+  "generated_at": "2025-11-11T17:47:24.603103",
+  "summary": {
+    "total_products_1c": 5,
+    "total_scraped_products": 62,
+    "total_matches": 140
+  },
+  "products_1c": [
+    {
+      "id": "_Батарея_S1_для_",
+      "name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "price": 16100.0,
+      "brand": "",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Bac",
+      "name": "Ботинки FXR Backshift BOA с утеплителем",
+      "price": 56650.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Ele",
+      "name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "price": 64100.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium BOA с утеплителем",
+      "price": 53750.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "price": 60875.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [
+    {
+      "title": "Очки для снегохода зимние 509 Aviator 2.0 XL S1 с подогревом (Nightvision (2023))",
+      "price": 58089.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/ochki-dlya-snegohoda-zimnie-509-aviator-2-0-xl-s1-s-podogrevom-nightvision-2023-1841924929/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Очки для снегохода зимние горнолыжные Корпус аккумулятора для очков 509 S1",
+      "price": 11333.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/ochki-dlya-snegohoda-zimnie-gornolyzhnye-korpus-akkumulyatora-dlya-ochkov-509-s1-1841924811/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Очки для снегохода зимние 509 Aviator 2.0 S1 с подогревом (Nightvision (2023))",
+      "price": 60937.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/ochki-dlya-snegohoda-zimnie-509-aviator-2-0-s1-s-podogrevom-nightvision-2023-1841925129/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Очки 509 Aviator 2.0 XL S1 с подогревом (Nightvision (2023))",
+      "price": 61549.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/ochki-509-aviator-2-0-xl-s1-s-podogrevom-nightvision-2023-2574859282/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 38361.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1377948904/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-i/wc500/6885510138.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 57759.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1802155960/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-8/wc500/7235043272.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 57759.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799672224/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-8/wc500/7235043272.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-j/wc500/6690791215.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "price": 49648.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-w/wc500/7097500904.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "price": 42583.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-w/wc500/6855703772.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR BOA",
+      "price": 60004.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-5/wc500/6858815729.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "price": 33736.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7598754474.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1/wc500/6786513433.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 61285.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-9/wc500/6855695217.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR BOA",
+      "price": 68998.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-2/wc500/6853738178.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "price": 65791.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-y/wc500/6860153914.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA Boot 22",
+      "price": 47104.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-22-1847257762/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-u/wc500/7292140734.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Мотоботы FXR Helium BOA с утеплителем",
+      "price": 49646.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-2/wc500/7596382106.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "price": 76432.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7292140775.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "price": 65173.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7541759634.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Файлы для страниц паспорта",
+      "price": 251.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/fayly-dlya-stranits-pasporta-2097230449/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-g/wc300/7518239728.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Мотоботы FXR Elevation Dual BOA",
+      "price": 58451.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/motoboty-fxr-elevation-dual-boa-2247275732/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-i/wc500/7596382374.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "price": 65791.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-y/wc500/6860153914.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-j/wc500/6690791215.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "price": 49648.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-w/wc500/7097500904.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "price": 33736.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7598754474.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID DUAL BOA",
+      "price": 33800.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1396958494/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-h/wc500/7140702545.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "price": 42583.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-w/wc500/6855703772.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Deeluxe ID Dual BOA",
+      "price": 32382.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-deeluxe-id-dual-boa-1853123428/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-h/wc500/7300390157.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1/wc500/6786513433.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID Dual Boa",
+      "price": 35396.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1571062464/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-r/wc500/7336705743.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR BOA",
+      "price": 68998.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-2/wc500/6853738178.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Id Dual Boa",
+      "price": 45104.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1445082400/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-7/wc500/6938738287.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "price": 76432.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7292140775.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Id Dual Boa",
+      "price": 45104.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1445082427/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-7/wc500/6938738287.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 61285.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-9/wc500/6855695217.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID DUAL BOA",
+      "price": 33800.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1939002333/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-0/wc500/7387062768.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA Boot 22",
+      "price": 47104.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-22-1847257762/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-u/wc500/7292140734.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR BOA",
+      "price": 60004.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-5/wc500/6858815729.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Мотоботы FXR Helium BOA с утеплителем",
+      "price": 49646.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-2/wc500/7596382106.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "price": 65173.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7541759634.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Туалетная бумага Papia Bali flower белая 3 слоя 32 рулона",
+      "price": 1000.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/tualetnaya-bumaga-papia-bali-flower-belaya-3-sloya-32-rulona-647371114/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 59941.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1339586448/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-b/wc500/7129248455.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR Helium",
+      "price": 68998.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-703214494/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-2/wc500/6853738178.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 57576.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1744351216/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-m/wc500/6258881026.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "price": 76432.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-z/wc500/7292140775.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR",
+      "price": 76432.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799670381/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-3/wc500/7006301859.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-j/wc500/6690791215.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 47310.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1/wc500/6786513433.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "price": 61285.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-9/wc500/6855695217.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Мотоботы FXR Helium BOA с утеплителем",
+      "price": 49646.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-2/wc500/7596382106.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "price": 65173.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7541759634.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "price": 49648.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-w/wc500/7097500904.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "price": 33736.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-6/wc500/7598754474.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID DUAL BOA",
+      "price": 33800.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1396958494/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-h/wc500/7140702545.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "price": 42583.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-w/wc500/6855703772.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Deeluxe ID Dual BOA",
+      "price": 32382.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-deeluxe-id-dual-boa-1853123428/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-h/wc500/7300390157.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID Dual Boa",
+      "price": 35396.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1571062464/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-r/wc500/7336705743.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Id Dual Boa",
+      "price": 45750.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1445082400/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 5.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-7/wc500/6938738287.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe Id Dual Boa",
+      "price": 45750.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1445082427/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-7/wc500/6938738287.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "price": 65791.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-y/wc500/6860153914.jpg",
+      "location": "",
+      "seller": ""
+    },
+    {
+      "title": "Ботинки для сноуборда Deeluxe ID DUAL BOA",
+      "price": 33800.0,
+      "old_price": null,
+      "url": "https://www.ozon.ru/product/botinki-dlya-snouborda-deeluxe-id-dual-boa-1939002333/",
+      "source": "OZON",
+      "availability": "in_stock",
+      "brand": "",
+      "rating": 11.11,
+      "reviews_count": 0,
+      "image_url": "https://ir-3.ozone.ru/s3/multimedia-1-0/wc500/7387062768.jpg",
+      "location": "",
+      "seller": ""
+    }
+  ],
+  "matches": [
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 33736.0,
+      "price_difference": -20014.0,
+      "price_difference_percent": -37.24,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.89,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 33736.0,
+      "price_difference": -20014.0,
+      "price_difference_percent": -37.24,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.89,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 33736.0,
+      "price_difference": -20014.0,
+      "price_difference_percent": -37.24,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.89,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 49646.0,
+      "price_difference": -4104.0,
+      "price_difference_percent": -7.64,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.88,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 49646.0,
+      "price_difference": -4104.0,
+      "price_difference_percent": -7.64,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.88,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.92,
+      "price_1c": 53750.0,
+      "price_scraped": 49646.0,
+      "price_difference": -4104.0,
+      "price_difference_percent": -7.64,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.88,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.9,
+      "price_1c": 60875.0,
+      "price_scraped": 49646.0,
+      "price_difference": -11229.0,
+      "price_difference_percent": -18.45,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.86,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.9,
+      "price_1c": 60875.0,
+      "price_scraped": 49646.0,
+      "price_difference": -11229.0,
+      "price_difference_percent": -18.45,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.86,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.9,
+      "price_1c": 60875.0,
+      "price_scraped": 49646.0,
+      "price_difference": -11229.0,
+      "price_difference_percent": -18.45,
+      "confidence": "high",
+      "match_details": {
+        "name": 0.86,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.89,
+      "price_1c": 56650.0,
+      "price_scraped": 33736.0,
+      "price_difference": -22914.0,
+      "price_difference_percent": -40.45,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.85,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.89,
+      "price_1c": 56650.0,
+      "price_scraped": 33736.0,
+      "price_difference": -22914.0,
+      "price_difference_percent": -40.45,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.85,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.89,
+      "price_1c": 56650.0,
+      "price_scraped": 33736.0,
+      "price_difference": -22914.0,
+      "price_difference_percent": -40.45,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.85,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Elevation Dual BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.88,
+      "price_1c": 64100.0,
+      "price_scraped": 58451.0,
+      "price_difference": -5649.0,
+      "price_difference_percent": -8.81,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.83,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-elevation-dual-boa-2247275732/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.88,
+      "price_1c": 60875.0,
+      "price_scraped": 33736.0,
+      "price_difference": -27139.0,
+      "price_difference_percent": -44.58,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.83,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.88,
+      "price_1c": 60875.0,
+      "price_scraped": 33736.0,
+      "price_difference": -27139.0,
+      "price_difference_percent": -44.58,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.83,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.88,
+      "price_1c": 60875.0,
+      "price_scraped": 33736.0,
+      "price_difference": -27139.0,
+      "price_difference_percent": -44.58,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.83,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.87,
+      "price_1c": 64100.0,
+      "price_scraped": 65791.0,
+      "price_difference": 1691.0,
+      "price_difference_percent": 2.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.81,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.87,
+      "price_1c": 64100.0,
+      "price_scraped": 65791.0,
+      "price_difference": 1691.0,
+      "price_difference_percent": 2.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.81,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.87,
+      "price_1c": 64100.0,
+      "price_scraped": 65791.0,
+      "price_difference": 1691.0,
+      "price_difference_percent": 2.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.81,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 64100.0,
+      "price_scraped": 33736.0,
+      "price_difference": -30364.0,
+      "price_difference_percent": -47.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 64100.0,
+      "price_scraped": 33736.0,
+      "price_difference": -30364.0,
+      "price_difference_percent": -47.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 64100.0,
+      "price_scraped": 33736.0,
+      "price_difference": -30364.0,
+      "price_difference_percent": -47.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-s-uteplitelem-2247275408/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 60875.0,
+      "price_scraped": 76432.0,
+      "price_difference": 15557.0,
+      "price_difference_percent": 25.56,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 60875.0,
+      "price_scraped": 76432.0,
+      "price_difference": 15557.0,
+      "price_difference_percent": 25.56,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.85,
+      "price_1c": 60875.0,
+      "price_scraped": 76432.0,
+      "price_difference": 15557.0,
+      "price_difference_percent": 25.56,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.79,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 61285.0,
+      "price_difference": 7535.0,
+      "price_difference_percent": 14.02,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 76432.0,
+      "price_difference": 22682.0,
+      "price_difference_percent": 42.2,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 65173.0,
+      "price_difference": 11423.0,
+      "price_difference_percent": 21.25,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 76432.0,
+      "price_difference": 22682.0,
+      "price_difference_percent": 42.2,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 61285.0,
+      "price_difference": 7535.0,
+      "price_difference_percent": 14.02,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 65173.0,
+      "price_difference": 11423.0,
+      "price_difference_percent": 21.25,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 76432.0,
+      "price_difference": 22682.0,
+      "price_difference_percent": 42.2,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 47310.0,
+      "price_difference": -6440.0,
+      "price_difference_percent": -11.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 61285.0,
+      "price_difference": 7535.0,
+      "price_difference_percent": 14.02,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.83,
+      "price_1c": 53750.0,
+      "price_scraped": 65173.0,
+      "price_difference": 11423.0,
+      "price_difference_percent": 21.25,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.76,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR Helium",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 53750.0,
+      "price_scraped": 68998.0,
+      "price_difference": 15248.0,
+      "price_difference_percent": 28.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.75,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-703214494/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR Helium",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 60875.0,
+      "price_scraped": 68998.0,
+      "price_difference": 8123.0,
+      "price_difference_percent": 13.34,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.75,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-703214494/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 64100.0,
+      "price_scraped": 49646.0,
+      "price_difference": -14454.0,
+      "price_difference_percent": -22.55,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 64100.0,
+      "price_scraped": 49646.0,
+      "price_difference": -14454.0,
+      "price_difference_percent": -22.55,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 64100.0,
+      "price_scraped": 49646.0,
+      "price_difference": -14454.0,
+      "price_difference_percent": -22.55,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 56650.0,
+      "price_scraped": 49646.0,
+      "price_difference": -7004.0,
+      "price_difference_percent": -12.36,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 56650.0,
+      "price_scraped": 49646.0,
+      "price_difference": -7004.0,
+      "price_difference_percent": -12.36,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Мотоботы FXR Helium BOA с утеплителем",
+      "marketplace": "OZON",
+      "similarity_score": 0.82,
+      "price_1c": 56650.0,
+      "price_scraped": 49646.0,
+      "price_difference": -7004.0,
+      "price_difference_percent": -12.36,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.74,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/motoboty-fxr-helium-boa-s-uteplitelem-2246679908/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 61285.0,
+      "price_difference": 410.0,
+      "price_difference_percent": 0.67,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 61285.0,
+      "price_difference": 410.0,
+      "price_difference_percent": 0.67,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 47310.0,
+      "price_difference": -13565.0,
+      "price_difference_percent": -22.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 61285.0,
+      "price_difference": 410.0,
+      "price_difference_percent": 0.67,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.72,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 56650.0,
+      "price_scraped": 60004.0,
+      "price_difference": 3354.0,
+      "price_difference_percent": 5.92,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 56650.0,
+      "price_scraped": 68998.0,
+      "price_difference": 12348.0,
+      "price_difference_percent": 21.8,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 56650.0,
+      "price_scraped": 68998.0,
+      "price_difference": 12348.0,
+      "price_difference_percent": 21.8,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 56650.0,
+      "price_scraped": 60004.0,
+      "price_difference": 3354.0,
+      "price_difference_percent": 5.92,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 64100.0,
+      "price_scraped": 60004.0,
+      "price_difference": -4096.0,
+      "price_difference_percent": -6.39,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 64100.0,
+      "price_scraped": 68998.0,
+      "price_difference": 4898.0,
+      "price_difference_percent": 7.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 64100.0,
+      "price_scraped": 68998.0,
+      "price_difference": 4898.0,
+      "price_difference_percent": 7.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 64100.0,
+      "price_scraped": 60004.0,
+      "price_difference": -4096.0,
+      "price_difference_percent": -6.39,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 60004.0,
+      "price_difference": 6254.0,
+      "price_difference_percent": 11.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 68998.0,
+      "price_difference": 15248.0,
+      "price_difference_percent": 28.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 68998.0,
+      "price_difference": 15248.0,
+      "price_difference_percent": 28.37,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 53750.0,
+      "price_scraped": 60004.0,
+      "price_difference": 6254.0,
+      "price_difference_percent": 11.64,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 60004.0,
+      "price_difference": -871.0,
+      "price_difference_percent": -1.43,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 68998.0,
+      "price_difference": 8123.0,
+      "price_difference_percent": 13.34,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 68998.0,
+      "price_difference": 8123.0,
+      "price_difference_percent": 13.34,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703219955/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.8,
+      "price_1c": 60875.0,
+      "price_scraped": 60004.0,
+      "price_difference": -871.0,
+      "price_difference_percent": -1.43,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.71,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-boa-703131382/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.79,
+      "price_1c": 60875.0,
+      "price_scraped": 65173.0,
+      "price_difference": 4298.0,
+      "price_difference_percent": 7.06,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.7,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.79,
+      "price_1c": 60875.0,
+      "price_scraped": 65173.0,
+      "price_difference": 4298.0,
+      "price_difference_percent": 7.06,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.7,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.79,
+      "price_1c": 60875.0,
+      "price_scraped": 65173.0,
+      "price_difference": 4298.0,
+      "price_difference_percent": 7.06,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.7,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Батарея_S1_для_",
+      "product_1c_name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "scraped_product_title": "Очки для снегохода зимние 509 Aviator 2.0 S1 с подогревом (Nightvision (2023))",
+      "marketplace": "OZON",
+      "similarity_score": 0.77,
+      "price_1c": 16100.0,
+      "price_scraped": 60937.0,
+      "price_difference": 44837.0,
+      "price_difference_percent": 278.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.82,
+        "brand": 0.5,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/ochki-dlya-snegohoda-zimnie-509-aviator-2-0-s1-s-podogrevom-nightvision-2023-1841925129/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 65791.0,
+      "price_difference": 4916.0,
+      "price_difference_percent": 8.08,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.66,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 65791.0,
+      "price_difference": 4916.0,
+      "price_difference_percent": 8.08,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.66,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 65791.0,
+      "price_difference": 4916.0,
+      "price_difference_percent": 8.08,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.66,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 38361.0,
+      "price_difference": -18289.0,
+      "price_difference_percent": -32.28,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1377948904/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 57759.0,
+      "price_difference": 1109.0,
+      "price_difference_percent": 1.96,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1802155960/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 57759.0,
+      "price_difference": 1109.0,
+      "price_difference_percent": 1.96,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799672224/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 59941.0,
+      "price_difference": 3291.0,
+      "price_difference_percent": 5.81,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1339586448/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 57576.0,
+      "price_difference": 926.0,
+      "price_difference_percent": 1.63,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1744351216/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 56650.0,
+      "price_scraped": 76432.0,
+      "price_difference": 19782.0,
+      "price_difference_percent": 34.92,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799670381/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 38361.0,
+      "price_difference": -25739.0,
+      "price_difference_percent": -40.15,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1377948904/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 57759.0,
+      "price_difference": -6341.0,
+      "price_difference_percent": -9.89,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1802155960/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 57759.0,
+      "price_difference": -6341.0,
+      "price_difference_percent": -9.89,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799672224/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 76432.0,
+      "price_difference": 12332.0,
+      "price_difference_percent": 19.24,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 76432.0,
+      "price_difference": 12332.0,
+      "price_difference_percent": 19.24,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 59941.0,
+      "price_difference": -4159.0,
+      "price_difference_percent": -6.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1339586448/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 57576.0,
+      "price_difference": -6524.0,
+      "price_difference_percent": -10.18,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1744351216/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM DUAL BOA 21",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 76432.0,
+      "price_difference": 12332.0,
+      "price_difference_percent": 19.24,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-dual-boa-21-1847257761/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 64100.0,
+      "price_scraped": 76432.0,
+      "price_difference": 12332.0,
+      "price_difference_percent": 19.24,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799670381/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 38361.0,
+      "price_difference": -15389.0,
+      "price_difference_percent": -28.63,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1377948904/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 57759.0,
+      "price_difference": 4009.0,
+      "price_difference_percent": 7.46,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1802155960/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 57759.0,
+      "price_difference": 4009.0,
+      "price_difference_percent": 7.46,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799672224/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 59941.0,
+      "price_difference": 6191.0,
+      "price_difference_percent": 11.52,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1339586448/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 57576.0,
+      "price_difference": 3826.0,
+      "price_difference_percent": 7.12,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1744351216/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 53750.0,
+      "price_scraped": 76432.0,
+      "price_difference": 22682.0,
+      "price_difference_percent": 42.2,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799670381/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 38361.0,
+      "price_difference": -22514.0,
+      "price_difference_percent": -36.98,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1377948904/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 57759.0,
+      "price_difference": -3116.0,
+      "price_difference_percent": -5.12,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1802155960/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 57759.0,
+      "price_difference": -3116.0,
+      "price_difference_percent": -5.12,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799672224/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 59941.0,
+      "price_difference": -934.0,
+      "price_difference_percent": -1.53,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1339586448/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 57576.0,
+      "price_difference": -3299.0,
+      "price_difference_percent": -5.42,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1744351216/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR",
+      "marketplace": "OZON",
+      "similarity_score": 0.76,
+      "price_1c": 60875.0,
+      "price_scraped": 76432.0,
+      "price_difference": 15557.0,
+      "price_difference_percent": 25.56,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.65,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-1799670381/"
+    },
+    {
+      "product_1c_id": "_Батарея_S1_для_",
+      "product_1c_name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "scraped_product_title": "Очки для снегохода зимние 509 Aviator 2.0 XL S1 с подогревом (Nightvision (2023))",
+      "marketplace": "OZON",
+      "similarity_score": 0.74,
+      "price_1c": 16100.0,
+      "price_scraped": 58089.0,
+      "price_difference": 41989.0,
+      "price_difference_percent": 260.8,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.82,
+        "brand": 0.5,
+        "size": 0.7
+      },
+      "url": "https://www.ozon.ru/product/ochki-dlya-snegohoda-zimnie-509-aviator-2-0-xl-s1-s-podogrevom-nightvision-2023-1841924929/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 61285.0,
+      "price_difference": 4635.0,
+      "price_difference_percent": 8.18,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 61285.0,
+      "price_difference": 4635.0,
+      "price_difference_percent": 8.18,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 47310.0,
+      "price_difference": -9340.0,
+      "price_difference_percent": -16.49,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 61285.0,
+      "price_difference": 4635.0,
+      "price_difference_percent": 8.18,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 49648.0,
+      "price_difference": -4102.0,
+      "price_difference_percent": -7.63,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 42583.0,
+      "price_difference": -11167.0,
+      "price_difference_percent": -20.78,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 65791.0,
+      "price_difference": 12041.0,
+      "price_difference_percent": 22.4,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA Boot 22",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 47104.0,
+      "price_difference": -6646.0,
+      "price_difference_percent": -12.36,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-22-1847257762/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 65791.0,
+      "price_difference": 12041.0,
+      "price_difference_percent": 22.4,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 49648.0,
+      "price_difference": -4102.0,
+      "price_difference_percent": -7.63,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 42583.0,
+      "price_difference": -11167.0,
+      "price_difference_percent": -20.78,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA Boot 22",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 47104.0,
+      "price_difference": -6646.0,
+      "price_difference_percent": -12.36,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-22-1847257762/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-CROSS PRO BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 49648.0,
+      "price_difference": -4102.0,
+      "price_difference_percent": -7.63,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-boot-1331427291/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR X-Cross Pro BOA",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 42583.0,
+      "price_difference": -11167.0,
+      "price_difference_percent": -20.78,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-x-cross-pro-boa-1751050697/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Hel",
+      "product_1c_name": "Ботинки FXR Helium BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR ELEVATION DUAL BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 53750.0,
+      "price_scraped": 65791.0,
+      "price_difference": 12041.0,
+      "price_difference_percent": 22.4,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.59,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-elevation-dual-boa-boot-1688056787/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 65173.0,
+      "price_difference": 8523.0,
+      "price_difference_percent": 15.05,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 65173.0,
+      "price_difference": 8523.0,
+      "price_difference_percent": 15.05,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Bac",
+      "product_1c_name": "Ботинки FXR Backshift BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA 21 Black/Hi Vis",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 56650.0,
+      "price_scraped": 65173.0,
+      "price_difference": 8523.0,
+      "price_difference_percent": 15.05,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-21-black-hi-vis-2133612243/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 61285.0,
+      "price_difference": -2815.0,
+      "price_difference_percent": -4.39,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 61285.0,
+      "price_difference": -2815.0,
+      "price_difference_percent": -4.39,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690111005/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 47310.0,
+      "price_difference": -16790.0,
+      "price_difference_percent": -26.19,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1690095984/"
+    },
+    {
+      "product_1c_id": "_Ботинки_FXR_Ele",
+      "product_1c_name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "scraped_product_title": "Ботинки снегоходные FXR HELIUM BOA BOOT",
+      "marketplace": "OZON",
+      "similarity_score": 0.71,
+      "price_1c": 64100.0,
+      "price_scraped": 61285.0,
+      "price_difference": -2815.0,
+      "price_difference_percent": -4.39,
+      "confidence": "medium",
+      "match_details": {
+        "name": 0.58,
+        "brand": 1.0,
+        "size": 1.0
+      },
+      "url": "https://www.ozon.ru/product/botinki-snegohodnye-fxr-helium-boa-boot-1751030795/"
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "generated_at": "2025-11-18T14:35:26.906171",
+  "summary": {
+    "total_products_1c": 71,
+    "total_scraped_products": 0,
+    "total_matches": 0
+  },
+  "products_1c": [
+    {
+      "id": "S1_Aviator_2_0_S1",
+      "name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "price": 16100.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Backshift_BOA",
+      "name": "Ботинки FXR Backshift BOA с утеплителем",
+      "price": 56650.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black;Размер:42#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Elevation_Dual_BOA",
+      "name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "price": 64100.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black;Размер:42#Цвет:Black;Размер:45#Цвет:Black;Размер:46#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_BOA",
+      "name": "Ботинки FXR Helium BOA с утеплителем",
+      "price": 53750.0,
+      "brand": "FXR",
+      "stock": 3,
+      "description": "",
+      "variation": "Цвет:Black;Размер:41#Цвет:Black;Размер:42#Цвет:Black;Размер:43#Цвет:Black;Размер:45#Цвет:Black;Размер:46#Цвет:Black/HiVis;Размер:41#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_Dual_BOA",
+      "name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "price": 60875.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black;Размер:43#Цвет:Black;Размер:45#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_X_Cross_Pro_BOA",
+      "name": "Ботинки FXR X-Cross Pro BOA с утеплителем",
+      "price": 39600.0,
+      "brand": "FXR",
+      "stock": 3,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:38#Цвет:Black Ops;Размер:39#Цвет:Black Ops;Размер:40#Цвет:Black Ops;Размер:41#Цвет:Black Ops;Размер:42#Цвет:Black Ops;Размер:43#Цвет:Black Ops;Размер:44#Цвет:Black Ops;Размер:45#Цвет:Black Ops;Размер:46#",
+      "source": "1C"
+    },
+    {
+      "id": "RSX_BARS",
+      "name": "Ботинки RSX BARS",
+      "price": 31700.0,
+      "brand": "RSX",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черно-серый;Размер:43#Цвет:Черно-серый;Размер:44#Цвет:Черно-серый;Размер:45#",
+      "source": "1C"
+    },
+    {
+      "id": "MOZ_D_ring_400_40_C",
+      "name": "Ботинки сконструированы с использованием передового высокотехнологичного мембранного материала, обеспечивающего водонепроницаемость и оптимальный уровень воздухообмена, синтетической кожи и высококачественной натуральной резины. Система шнуровки MOZ® с одним диском; Петля D-ring на заднике ботинка; Подошва из натуральной резины. 400 г утеплителя обеспечивают комфорт при температурах до -40 °C. Мягкая, удобная защита ахиллова сухожилия  и лодыжки; Крепкий корпус ботинка защищает ногу изнутри и снаружи",
+      "price": 22200.0,
+      "brand": "MOZ®",
+      "stock": 3,
+      "description": "",
+      "variation": "Размер:43;Цвет:Черно-серый#Размер:44;Цвет:Черно-серый#Размер:45;Цвет:Черно-серый#",
+      "source": "1C"
+    },
+    {
+      "id": "ATV_FLY_RACING_MARKER",
+      "name": "Ботинки зимние ATV/снегоход FLY RACING MARKER",
+      "price": 15400.0,
+      "brand": "FLY",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:9#",
+      "source": "1C"
+    },
+    {
+      "id": "DRAGONFLY_Snowmobile_Mittens",
+      "name": "Варежки DRAGONFLY Snowmobile Mittens",
+      "price": 4600.0,
+      "brand": "DRAGONFLY",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "Sowcat",
+      "name": "Варежки-митенки Sowcat",
+      "price": 890.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Черный#",
+      "source": "1C"
+    },
+    {
+      "id": "Allied_Mono_Suit_Shell_509_Cordura_300D",
+      "name": "Обновленный костюм Allied Mono Suit Shell 509 обеспечивает превосходную защиту от непогоды благодаря полностью проклеенной водонепроницаемой / дышащей ткани и прочному полиэстеру Cordura® 300D с тройной строчкой. Обновленная ластовица в области паха улучшает посадку там, где это необходимо, а новая ширинка на молнии упрощает остановку на пит-стопе.",
+      "price": 84600.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Acid Green;Размер:L#Цвет:Black Camo;Размер:M#Цвет:Black Camo;Размер:S#Цвет:Black Ops;Размер:M#Цвет:Racing Red;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Expedition",
+      "name": "Комбинезон DragonFly Expedition",
+      "price": 43500.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Camo-Dark Grey;Размер:M#Цвет:Camo-Dark Grey;Размер:XL#Размер:L;Цвет:Dark Grey#Цвет:Dark Grey;Размер:M#Размер:XL;Цвет:Dark Grey#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_2_0",
+      "name": "Комбинезон DragonFly Extreme 2.0",
+      "price": 41500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Acid Orange;Размер:M#Цвет:Black-Red;Размер:S#Цвет:Blue-Yellow Fluo;Размер:M#Цвет:Blue-Yellow Fluo;Размер:XL#Цвет:Blue-Yellow Green;Размер:M#Цвет:Cyber Yellow-Black;Размер:L#Цвет:Dark Ocean-Baltic;Размер:XL#Цвет:Orange Red Fluo-Limoges;Размер:XL#Цвет:Yellow-Green Fluo-Limoges;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "100_Dragonfly",
+      "name": "Комбинезон сшит из прочной нейлоновой ткани плотного плетения с мембраной и защитным покрытием, что отличает его устойчивость при катании в лесистой местности и 100% защиту от ледяного ветра на открытых горных рельефах. Свободный райдерский крой обеспечивает удобную посадку при активной подвижности, как в защите, так и без неё. Высокие показатели паропроницаемости, отсутствие утеплителя и быстросохнущий подклад из полиэфирной сетки делают комбинезон Dragonfly надежным элементом экипировки для активного катания на горных склонах.",
+      "price": 37000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Оранжевый;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_2020",
+      "name": "Комбинезон DragonFly Extreme 2020",
+      "price": 37000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Красно-желтый (флуоресцентный);Размер:XXL#Цвет:Сине-флуоресцентный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Superlight_3L",
+      "name": "Комбинезон DragonFly Superlight 3L",
+      "price": 67500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black-Yellow Fluo;Размер:L#Цвет:Black-Yellow Fluo;Размер:XL#Цвет:Dark Ocean-Orange;Размер:L#Цвет:Red-Yellow;Размер:L#Цвет:Red-Yellow;Размер:M#Цвет:Red-Yellow;Размер:XL#Цвет:Red-Yellow;Размер:XXL#Цвет:Yellow-Black;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_CX_F_A_S_T",
+      "name": "Комбинезон FXR CX F.A.S.T. с утеплителем",
+      "price": 92700.0,
+      "brand": "FXR",
+      "stock": 6,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black/Black Camo/HiVis;Размер:L#Цвет:Black/Black Camo/HiVis;Размер:M#Цвет:Black/Black Camo/HiVis;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_CX_Lite",
+      "name": "Комбинезон FXR CX Lite",
+      "price": 89200.0,
+      "brand": "FXR",
+      "stock": 7,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black/Black Camo/HiVis;Размер:L#Цвет:Black/Black Camo/HiVis;Размер:M#Цвет:Black/Black Camo/HiVis;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_2021",
+      "name": "Комбинезон женский DragonFly Extreme 2021",
+      "price": 35200.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Purple-Yellow;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme",
+      "name": "Комбинезон утепленный DragonFly Extreme",
+      "price": 41500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Blue-Grey;Размер:M#Цвет:Camo-Grey;Размер:L#Цвет:Camo-Grey;Размер:XL#Цвет:Camo-Grey;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_2_0",
+      "name": "Комбинезон утепленный DragonFly Extreme 2.0",
+      "price": 41500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black-Red-Grey;Размер:XXL#Цвет:Dark Ocean-Baltic;Размер:L#Цвет:Dark Ocean-Baltic;Размер:M#Цвет:Dark Ocean-Baltic;Размер:XL#Цвет:Grey-Blue-Red;Размер:L#Цвет:Grey-Blue-Red;Размер:M#Цвет:Grey-Blue-Red;Размер:XL#Цвет:Grey-Blue-Red;Размер:XXL#Цвет:Navy Blue-Orange;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Extreme_Woman",
+      "name": "Комбинезон утепленный DragonFly Extreme Woman",
+      "price": 41500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Dark Blue-Pink Cat;Размер:M#Цвет:Dark Ocean-Baltic;Размер:M#Цвет:Red-Yellow;Размер:L#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Junior_Gravity",
+      "name": "Комбинезон утепленный DragonFly Junior Gravity",
+      "price": 19900.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Blue-Red;Размер:116-122см#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Sport",
+      "name": "Куртка женская DragonFly Sport",
+      "price": 19600.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Красный;Размер:L#Цвет:Синий;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Expedition",
+      "name": "Куртка мужская DragonFly Expedition",
+      "price": 26000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Brown-Red;Размер:XL#Цвет:Camo-Grey;Размер:M#Цвет:Camo-Grey;Размер:XL#Цвет:Camo-Red;Размер:L#Цвет:Camo-Red;Размер:M#Цвет:Dark Grey;Размер:XL#Цвет:Ink-Red;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Sport",
+      "name": "Куртка мужская DragonFly Sport",
+      "price": 13000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Сине-зеленый;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Gravity_for_Teen",
+      "name": "Куртка утепленная DragonFly Gravity for Teen",
+      "price": 14900.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Green-Orange;Размер:152-158 см#Цвет:Red-Yellow;Размер:152-158 см#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Gravity_Premium",
+      "name": "Куртка утепленная DragonFly Gravity Premium",
+      "price": 18000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Orange;Размер:XS#",
+      "source": "1C"
+    },
+    {
+      "id": "509_Sinister_X7_S1_Black_Saphire",
+      "name": "Очки 509 Sinister X7 S1 Black Saphire с подогревом",
+      "price": 64950.0,
+      "brand": "",
+      "stock": 12,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "509_Sinister_X7_S1_Racing_Red",
+      "name": "Очки 509 Sinister X7 S1 Racing Red с подогревом",
+      "price": 64950.0,
+      "brand": "",
+      "stock": 6,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "STARKS_SW02",
+      "name": "Очки с подогревом STARKS SW02",
+      "price": 19990.0,
+      "brand": "STARKS",
+      "stock": 5,
+      "description": "",
+      "variation": "Цвет:Красный#",
+      "source": "1C"
+    },
+    {
+      "id": "DRAGONFLY_Mountain_Backcountry",
+      "name": "Перчатки DRAGONFLY Mountain Backcountry",
+      "price": 4600.0,
+      "brand": "DRAGONFLY",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DRAGONFLY_Snowmobile_Extreme",
+      "name": "Перчатки DRAGONFLY Snowmobile Extreme",
+      "price": 4600.0,
+      "brand": "DRAGONFLY",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черно-серый;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DRAGONFLY_Snowmobile_Sport",
+      "name": "Перчатки DRAGONFLY Snowmobile Sport",
+      "price": 4600.0,
+      "brand": "DRAGONFLY",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:3XL#Цвет:Черный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Attack",
+      "name": "Перчатки FXR Attack",
+      "price": 13900.0,
+      "brand": "FXR",
+      "stock": 9,
+      "description": "",
+      "variation": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Black;Размер:XL#Цвет:Black;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Attack_Lite",
+      "name": "Перчатки FXR Attack Lite без утеплителя",
+      "price": 13500.0,
+      "brand": "FXR",
+      "stock": 7,
+      "description": "",
+      "variation": "Размер:L;Цвет:Black#Размер:M;Цвет:Black#Размер:XL;Цвет:Black#Размер:XXL;Цвет:Black#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_CX",
+      "name": "Перчатки FXR CX с утеплителем",
+      "price": 13900.0,
+      "brand": "FXR",
+      "stock": 6,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Fuel",
+      "name": "Перчатки FXR Fuel с утеплителем",
+      "price": 15200.0,
+      "brand": "FXR",
+      "stock": 9,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XXL#Цвет:Black/Gold;Размер:L#Цвет:Black/Gold;Размер:XL#Цвет:Black/Orange;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Leather",
+      "name": "Перчатки FXR Leather",
+      "price": 11600.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Pro_Tec_Leather",
+      "name": "Перчатки FXR Pro-Tec Leather с утеплителем",
+      "price": 15900.0,
+      "brand": "FXR",
+      "stock": 8,
+      "description": "",
+      "variation": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Black;Размер:XL#Цвет:Black;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Transfer",
+      "name": "Перчатки FXR Transfer с утеплителем",
+      "price": 15100.0,
+      "brand": "FXR",
+      "stock": 8,
+      "description": "",
+      "variation": "Цвет:Black;Размер:L#Цвет:Black;Размер:M#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "Nerve",
+      "name": "Перчатки Nerve",
+      "price": 3900.0,
+      "brand": "",
+      "stock": 8,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:L#Цвет:Черный;Размер:M#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "STARKS_ARCTIC",
+      "name": "Перчатки STARKS ARCTIC",
+      "price": 6500.0,
+      "brand": "STARKS",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черно-красный;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "STARKS_Haron",
+      "name": "Перчатки STARKS Haron",
+      "price": 5990.0,
+      "brand": "STARKS",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:3XL#Цвет:Черный;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "Suomy_Snow",
+      "name": "Перчатки Suomy Snow",
+      "price": 4050.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helix_Race",
+      "name": "Перчатки подростковые FXR Helix Race с утеплителем",
+      "price": 8100.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black/Fuchsia;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Race_Coat",
+      "name": "Плащ зимний DragonFly Race Coat",
+      "price": 27500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black-White;Размер:L#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Race_Coat_WINTER_SUNSET",
+      "name": "Плащ зимний DragonFly Race Coat  WINTER SUNSET",
+      "price": 28500.0,
+      "brand": "WINTER",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Blue;Размер:L#Цвет:Blue;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly",
+      "name": "Сидушка неопреновая DragonFly",
+      "price": 4200.0,
+      "brand": "",
+      "stock": 10,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:L#Цвет:Черный;Размер:XL#Цвет:Черный;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "Starks_Warm_30",
+      "name": "Термомуфта на руль Starks Warm 30",
+      "price": 2600.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:One Size#",
+      "source": "1C"
+    },
+    {
+      "id": "Starks_Warm_35",
+      "name": "Термомуфта на руль Starks Warm 35",
+      "price": 4990.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:L/XL#",
+      "source": "1C"
+    },
+    {
+      "id": "509_Altitude_2_0",
+      "name": "Шлем 509 Altitude 2.0",
+      "price": 48300.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Acid Green;Размер:L#Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:XL#Цвет:Covert Camo;Размер:XL#Цвет:Dark Ops W/Red;Размер:L#Цвет:Dark Ops W/Red;Размер:M#Цвет:Dark Ops W/Red;Размер:XL#Цвет:Red Aura;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "509_Altitude_Fidlock",
+      "name": "Шлем 509 Altitude Fidlock",
+      "price": 40300.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Chromium Hi-Vis;Размер:M#Цвет:Chromium Hi-Vis;Размер:XXL#Цвет:Chromium Stealth;Размер:S#Цвет:Chromium Stealth;Размер:XL#Цвет:Rock Star;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "509_Delta_R3L",
+      "name": "Шлем 509 Delta R3L с подогревом",
+      "price": 80400.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Black Camo;Размер:S#Цвет:Black Ops;Размер:S#Цвет:Covert Camo;Размер:S#Цвет:Matte Ops;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "509_Tactical_2_0",
+      "name": "Шлем 509 Tactical 2.0",
+      "price": 29600.0,
+      "brand": "",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Covert Camo;Размер:XS#Цвет:Racing Red;Размер:XL##Цвет:Stormchaser;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_Carbon",
+      "name": "Шлем FXR Helium Carbon",
+      "price": 65350.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black;Размер:M#Цвет:Black;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_Carbon_W_Auto_Buckle",
+      "name": "Шлем FXR Helium Carbon W/ Auto Buckle",
+      "price": 71100.0,
+      "brand": "FXR",
+      "stock": 4,
+      "description": "",
+      "variation": "Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Helium_Carbon_W_Fidlock",
+      "name": "Шлем FXR Helium Carbon W/ Fidlock",
+      "price": 74170.0,
+      "brand": "FXR",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Alloy;Размер:XS#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Maverick_X_Pro",
+      "name": "Шлем FXR Maverick X Pro",
+      "price": 65800.0,
+      "brand": "FXR",
+      "stock": 3,
+      "description": "",
+      "variation": "Цвет:Black/Red;Размер:L#Цвет:Black/Red;Размер:M#Цвет:Black/Red;Размер:XL#Цвет:Black/Red;Размер:XXL#Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:M#Цвет:Black Ops;Размер:S#Цвет:Titanium;Размер:L#Цвет:Titanium;Размер:XL#Цвет:Titanium;Размер:XXL#Цвет:Black Ops;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Maverick_X",
+      "name": "Шлем FXR Maverick X с подогревом",
+      "price": 77800.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black/Titanium;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Torque_Cold_Stop_QRS_22",
+      "name": "Шлем FXR Torque Cold Stop QRS 22",
+      "price": 35100.0,
+      "brand": "FXR",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "FXR_Torque_Team",
+      "name": "Шлем FXR Torque Team",
+      "price": 22150.0,
+      "brand": "FXR",
+      "stock": 4,
+      "description": "",
+      "variation": "Цвет:Black Ops;Размер:L#Цвет:Black Ops;Размер:S#Цвет:Black Ops;Размер:XL#Цвет:Black Ops;Размер:XS#Цвет:Black Ops;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "GSB_G_362",
+      "name": "Шлем GSB G-362",
+      "price": 15490.0,
+      "brand": "GSB",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Черный;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "RSX_HS_310_Severus",
+      "name": "Шлем RSX HS-310 Severus",
+      "price": 26000.0,
+      "brand": "RSX",
+      "stock": 2,
+      "description": "",
+      "variation": "Цвет:Черно-серый;Размер:XL#",
+      "source": "1C"
+    },
+    {
+      "id": "RSX_Iceman_H_331_Winter",
+      "name": "Шлем RSX Iceman H-331 Winter",
+      "price": 23500.0,
+      "brand": "RSX",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Бело-зеленый;Размер:L#Цвет:Бело-зеленый;Размер:XL#Цвет:Бело-зеленый;Размер:XXL#Цвет:Красно-голубой;Размер:XXL#Цвет:Черно-красный;Размер:XXL#Цвет:Черный матовый;Размер:L#Цвет:Черный матовый;Размер:M#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Sport",
+      "name": "Штаны женские DragonFly Sport",
+      "price": 17500.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Синий;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Expedition",
+      "name": "Штаны мужские DragonFly Expedition",
+      "price": 24000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Camo-Grey;Размер:M#Цвет:Camo-Grey;Размер:XL#Цвет:Dark Grey;Размер:L#Цвет:Dark Grey;Размер:M#Цвет:Ink-Red;Размер:M#Цвет:Ink-Red;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Expedition_2020",
+      "name": "Штаны мужские DragonFly Expedition 2020",
+      "price": 24000.0,
+      "brand": "",
+      "stock": 3,
+      "description": "",
+      "variation": "Цвет:Сине-красный;Размер:XL#Цвет:Черно-белый камуфляж;Размер:XXL#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Sport",
+      "name": "Штаны мужские DragonFly Sport",
+      "price": 15000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Сине-зеленый;Размер:S#",
+      "source": "1C"
+    },
+    {
+      "id": "DragonFly_Sport_2019",
+      "name": "Штаны мужские DragonFly Sport 2019",
+      "price": 15000.0,
+      "brand": "",
+      "stock": 1,
+      "description": "",
+      "variation": "Цвет:Красный;Размер:XL#",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [],
+  "matches": []
+}

@@ -1,0 +1,67 @@
+{
+  "generated_at": "2025-11-12T11:04:11.543301",
+  "summary": {
+    "total_products_1c": 5,
+    "total_scraped_products": 0,
+    "total_matches": 0
+  },
+  "products_1c": [
+    {
+      "id": "_Батарея_S1_для_",
+      "name": "Батарея S1 для очков Aviator 2.0 S1 с подогревом",
+      "price": 16100.0,
+      "brand": "",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Bac",
+      "name": "Ботинки FXR Backshift BOA с утеплителем",
+      "price": 56650.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Ele",
+      "name": "Ботинки FXR Elevation Dual BOA с утеплителем",
+      "price": 64100.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium BOA с утеплителем",
+      "price": 53750.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    },
+    {
+      "id": "_Ботинки_FXR_Hel",
+      "name": "Ботинки FXR Helium Dual BOA с утеплителем",
+      "price": 60875.0,
+      "brand": "FXR",
+      "article": "",
+      "stock": 0,
+      "description": "",
+      "variation": "",
+      "source": "1C"
+    }
+  ],
+  "scraped_products": [],
+  "matches": []
+}
