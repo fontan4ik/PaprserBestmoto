@@ -1,0 +1,45 @@
+services:
+  - type: web
+    name: parser-bestmoto-api
+    env: python
+    plan: free
+    region: frankfurt
+    buildCommand: |
+      pip install -r backend/requirements.txt
+    startCommand: |
+      cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+      - key: ENVIRONMENT
+        value: production
+      - key: FRONTEND_URL
+        value: https://parser-bestmoto.github.io/miniapp
+      - key: API_BASE_URL
+        fromService:
+          name: parser-bestmoto-api
+          type: web
+          property: host
+      # остальные переменные задайте в Render UI или подключите Secrets
+
+  - type: worker
+    name: parser-bestmoto-worker
+    env: python
+    plan: free
+    buildCommand: |
+      pip install -r backend/requirements.txt
+    startCommand: |
+      cd backend && celery -A app.workers.celery_app.celery_app worker --loglevel=info
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+      # скопируйте те же переменные, что и в Web service
+
+  - type: redis
+    name: parser-bestmoto-redis
+    plan: free
+
+databases:
+  - name: parser-bestmoto-db
+    plan: free
+

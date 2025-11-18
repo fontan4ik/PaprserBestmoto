@@ -1,0 +1,45 @@
+.venv/
+.env
+.env.*
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+dist/
+build/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+
+# Credentials & secrets
+credentials.json
+google_creds.json
+*.pem
+*.key
+*.crt
+
+# Data outputs
+data/reports/
+data/tmp/
+uploads/
+
+# Supabase artifacts
+supabase/.temp/
+
+# Celery beat schedule
+celerybeat-schedule
+
