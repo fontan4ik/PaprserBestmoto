@@ -5,6 +5,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
 
   return {
+    base: "/PaprserBestmoto/",
     plugins: [react()],
     define: {
       __APP_VERSION__: JSON.stringify(process.env.npm_package_version || "dev"),
@@ -18,4 +19,3 @@ export default defineConfig(({ mode }) => {
     },
   };
 });
-
