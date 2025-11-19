@@ -4,6 +4,7 @@ export default defineConfig(function (_a) {
     var mode = _a.mode;
     var env = loadEnv(mode, process.cwd(), "");
     return {
+        base: "/PaprserBestmoto/",
         plugins: [react()],
         define: {
             __APP_VERSION__: JSON.stringify(process.env.npm_package_version || "dev"),
