@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parser-bestmoto",
+  "private_key_id": "4596dc1aea6006d6d7cd38b6945ade39d39ca9ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQChIcyvu+i8rid1\nOLhR1IA9eCmn2vNqpRVMYORA0SuS7SHSRBDEYILh7Pa83i6sgiU03E7sicJvd5+S\nONzez2SPuuIrUxaDotH5mYISD+MK8cLlLoZ8QTQfo8SsZtymxh/Zw54CQcmfQCY7\nXMPzGoLTyskO24PSRD3SZ+mVBah9H5oIDmWxPHfPgsM7Pj9IEHH3Zs82F/YiJ+j6\neRRWm9VYsuW+FoZLtJb4gzmKLCtTUcrTuOaeDt3VWl/7xndIbu5AEpbPi/mi/Cia\nskv2mSrlYW10jVH1YvGUVXZu7ZCM5L4ig2i839+ZiUWsUFwRGymj6Wo1OZI2BYmC\nES/9Q0LlAgMBAAECggEAFMiUi4VIFZA8GC9e/PUVLniRnOxNse+FsgKcZmzkezDZ\niDLN29qb/zKut7lL2WX3ERyqlHGHchPCshxiBt5G2RAwrIhs0sFdZp3BjH1emnKJ\nIkEQSTYq2DrqOxeQdfV/tbm4548fR8qBM+54+uIsRk+1g9RWKjixpbJQC2/9pdfJ\nhBXxqE16fFpFW6fIxjycxZtLm+nuX3R5OC6BhJesKMbDwT2O+W1WLoZ5YNtWD003\nNVXemw9nG7huOheYSlyej7JQT6crhQGyXEpI2uCv48C5+nkq+SbkFqBd5KMzrlsQ\nLwG2a0PJ4SCdyqsJUOUzjmzuwLT9ZtJaQPb6jgOtsQKBgQDL7+2hLjLMl3Dge3pZ\n++mrsk6qHpSg2eO7u7YlQRwThKUYdGN7TUxHtMsLNEonbEiCbZ9UngDT83pSnshi\nSbIVjMO3KMk7ZpEnl26+hcHYWeLeXD4/N1xNztC3HXAXtQ/gBjv+a1dBg3BvHRo/\ni4jH6Pve49D4uZZl0E6sYu+vdQKBgQDKRGO72cZzrOIotTT00zcDnnvTj3eyADee\nX+xlAAlzqpT9Wzl14eC9M0z6UeTdTwQt+1xfGibpd4fxH16Z8a4rJa4h5Dz81+Ac\nBOMjaS2MczuzFtnOikY6szC9BD9Tpv+XAjMoTLJxdw9DYIqBpI9BofV7GLlusU9s\nCKNfravHsQKBgQCmF3cCYXzP8brlqMsCBE/QHT1CAfvscOivmfaDqt5x6wMGwqvO\n3Sp18AG501FdgCwhxaQRJ0nnVRHXvifXHMwkDuvK/TW+4g7wHr37/zXbvYEuthOg\nKrdLS1fi+t+y/yy5uHoeAFAlNCZa6GnbPQoePlr7sbEdEREzRI7+iOlKjQKBgQCD\nu5TlFImubuuArbwGs8VBwydMe0TuljujF0BD64k8Xt3YQGClCO6w6sd4xHt1M3A6\nbloTylmLdoEAJnkbdA8GJO1LP3YFCqf4N6qjNm4m6in4kqpaXS4uLuRQRoLj/YC7\nHgCpf4I8adlz/V1X4BA5I71YZZrnn+1lJB8bQmX9kQKBgQChTcqTxlKwwaHWVRWV\nPh/O7axRZCxqySo6FMXeM7VL2b3l0mM+SjWpM8tX5bWjZGVTq3L32f/7FeciyvFF\ncJLcjmSfaH/V2PFKX539XxD0zAgexILz84rj4TT4mZkwcbhy2RQJp72mcZ0ZumVq\nySrgH3Lau6WOjPPdBKujlFdiPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vladimir@parser-bestmoto.iam.gserviceaccount.com",
+  "client_id": "113547275656924001085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vladimir%40parser-bestmoto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
