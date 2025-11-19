@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
       port: Number(env.VITE_DEV_PORT || 5173),
     },
     build: {
-      outDir: "dist",
+      outDir: "../docs",
       sourcemap: true,
     },
   };
