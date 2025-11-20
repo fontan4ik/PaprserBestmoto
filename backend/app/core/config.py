@@ -23,7 +23,7 @@ class Settings(BaseSettings):
     environment: str = "development"
     secret_key: str = "dev-secret"
 
-    telegram_bot_token: str
+    telegram_bot_token: str = ""
     telegram_bot_username: str = ""
     initial_admin_telegram_id: str | None = None
 
@@ -31,14 +31,14 @@ class Settings(BaseSettings):
     api_base_url: AnyHttpUrl | None = None
     allowed_origins: List[str] = ["*"]
 
-    database_url: str
+    database_url: str = ""
 
-    redis_url: str
+    redis_url: str = ""
     celery_broker_url: str | None = None
     celery_result_backend: str | None = None
 
-    google_credentials: str
-    google_service_account_email: str
+    google_credentials: str = ""
+    google_service_account_email: str = ""
 
     supabase_project_url: AnyHttpUrl | None = None
     supabase_service_key: str | None = None
@@ -75,7 +75,22 @@ class Settings(BaseSettings):
 
 @lru_cache(maxsize=1)
 def get_settings() -> Settings:
-    return Settings()
+    settings = Settings()
+    # Validate required settings at startup
+    required_fields = {
+        "telegram_bot_token": settings.telegram_bot_token,
+        "database_url": settings.database_url,
+        "redis_url": settings.redis_url,
+        "google_credentials": settings.google_credentials,
+        "google_service_account_email": settings.google_service_account_email,
+    }
+    missing = [key for key, value in required_fields.items() if not value]
+    if missing:
+        raise ValueError(
+            f"Missing required environment variables: {', '.join(missing)}. "
+            "Please set them in Railway environment variables."
+        )
+    return settings
 
 
 settings = get_settings()
