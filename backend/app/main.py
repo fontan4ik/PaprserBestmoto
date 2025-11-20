@@ -46,6 +46,11 @@ def create_app() -> FastAPI:
         """Health check endpoint that doesn't require database"""
         return {"status": "ok", "service": "parser-bestmoto-api"}
 
+     @app.get("/health2")
+    async def health2_check():
+        """Health check endpoint v2"""
+        return {"status": "ok", "service": "parser-bestmoto-api"}
+
     app.include_router(api_router, prefix="/api")
 
     return app
