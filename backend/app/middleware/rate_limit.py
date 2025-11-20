@@ -8,7 +8,7 @@ from ..core.config import settings
 
 
 class RateLimitMiddleware(BaseHTTPMiddleware):
-    exempt_paths = {"/", "/ping", "/healthz", "/docs", "/openapi.json", "/api/auth/validate"}
+    exempt_paths = {"/", "/ping", "/healthz", "/health2", "/docs", "/openapi.json", "/api/auth/validate"}
 
     async def dispatch(self, request, call_next):
         path = request.url.path.rstrip("/") or "/"

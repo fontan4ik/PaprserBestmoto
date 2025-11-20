@@ -11,6 +11,7 @@ class TelegramInitDataMiddleware(BaseHTTPMiddleware):
     exempt_paths = {
         "/",
         "/ping",
+        "/healthz",
         "/health2",
         "/docs",
         "/openapi.json",
