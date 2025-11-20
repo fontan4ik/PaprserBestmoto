@@ -31,6 +31,11 @@ def create_app() -> FastAPI:
     app.add_middleware(TelegramInitDataMiddleware)
     app.add_middleware(RateLimitMiddleware)
 
+    @app.get("/")
+    async def root():
+        """Root endpoint"""
+        return {"status": "ok", "service": "parser-bestmoto-api"}
+
     @app.get("/ping")
     async def ping():
         """Simple health check endpoint for Railway - no checks required"""
