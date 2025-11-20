@@ -9,6 +9,8 @@ class TelegramInitDataMiddleware(BaseHTTPMiddleware):
 
     header_name = "X-Telegram-Init-Data"
     exempt_paths = {
+        "/",
+        "/ping",
         "/healthz",
         "/docs",
         "/openapi.json",
