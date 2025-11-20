@@ -1,5 +1,5 @@
 from functools import lru_cache
-from typing import List
+from typing import ClassVar, List
 
 from fastapi.responses import ORJSONResponse
 from pydantic import AnyHttpUrl, BaseModel, field_validator
@@ -51,7 +51,7 @@ class Settings(BaseSettings):
     max_file_size_mb: int = 10
     max_file_size_admin_mb: int = 50
 
-    default_response_class = ORJSONResponse
+    default_response_class: ClassVar[type[ORJSONResponse]] = ORJSONResponse
 
     @field_validator("allowed_origins", mode="before")
     @classmethod
