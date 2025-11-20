@@ -38,8 +38,33 @@ async def ensure_initial_admin() -> None:
 async def lifespan(app):
     setup_logging(settings.log_level)
     redis = get_redis_client()
-    await init_db()
-    await ensure_initial_admin()
+    
+    # Try to initialize DB with retry logic
+    import asyncio
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            await init_db()
+            await ensure_initial_admin()
+            logger.info("Database initialized successfully.")
+            break
+        except Exception as e:
+            if attempt < max_retries - 1:
+                wait_time = 2 ** attempt  # Exponential backoff
+                logger.warning(
+                    "Database initialization failed (attempt %d/%d): %s. Retrying in %d seconds...",
+                    attempt + 1,
+                    max_retries,
+                    str(e),
+                    wait_time,
+                )
+                await asyncio.sleep(wait_time)
+            else:
+                logger.error(
+                    "Database initialization failed after %d attempts: %s. Application will start but database operations may fail.",
+                    max_retries,
+                    str(e),
+                )
 
     logger.info("Application startup complete.")
     try:
