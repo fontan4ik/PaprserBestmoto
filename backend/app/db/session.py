@@ -31,7 +31,8 @@ if "supabase.co" in db_url:
                 db_url = urlunparse(parsed)
         
         # Add SSL parameter if not present
-        if "ssl=" not in db_url:
+        parsed = urlparse(db_url)  # Re-parse after password encoding
+        if "ssl=" not in db_url.lower():
             query_params = parse_qs(parsed.query)
             query_params["ssl"] = ["require"]
             new_query = urlencode(query_params, doseq=True)
